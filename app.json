@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "ObraControl",
+    "slug": "obracontrol",
+    "scheme": "obracontrol",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.luiss2080.obracontrol"
+    },
+    "android": {
+      "package": "com.luiss2080.obracontrol"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
